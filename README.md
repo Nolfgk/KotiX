@@ -12,3 +12,6 @@ Installed:
 - telegram-desktop
 - flatpack
 - aegisub
+
+Telegram chat:
+![alt text](kotix_tg.jpg)
